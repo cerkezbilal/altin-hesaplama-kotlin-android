@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Altın Hesaplama</string>
+    <string name="app_baslik">Altın Hesaplama</string>
+    <string name="et_para">Para Miktarı</string>
+    <string name="btn_hesapla">Hesapla</string>
+    <string name="cb_gram">Gram</string>
+    <string name="cb_ceyrek">Çeyrek</string>
+    <string name="cb_yarim">Yarım</string>
+    <string name="tv_altinadet">Para Üstü: 0</string>
+    <string name="tv_paraustu">Altın Miktarı: 0</string>
+</resources>
